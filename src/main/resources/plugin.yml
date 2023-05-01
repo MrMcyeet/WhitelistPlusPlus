@@ -1,5 +1,5 @@
 name: WhitelistPlusPlus
 version: '${version}'
 main: me.mcyeet.whitelistplusplus.WhitelistPlusPlus
-api-version: 1.19
+api-version: 1.13
 authors: [ MrMcyeet ]
